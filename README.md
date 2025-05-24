@@ -13,15 +13,15 @@ A simple Node.js and Express application that implements password authentication
 
 ### **1. Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/OJ254/Secrets_Challenge.git
    ```
 ### **2. Navigate to the project directory:**
    ```bash
-   cd <project-directory>
+   cd Secrets_Challenge
    ```
 ### **3. Install dependencies:**
    ```bash
-   npm install
+   npm i
    ```
 ### **4. Install **nodemon** as a development dependency:**
    ```bash
